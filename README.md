@@ -4,7 +4,7 @@ A To-Do web application made using react.
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/react-todo-app/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
